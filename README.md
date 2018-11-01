@@ -11,4 +11,14 @@ Then you put it in front of the lens and let the led shine through. You can figu
  
  It's very rough but it gets me in the "idea space". 
  
+ 
+ Here is the spotlight I have.
+![Alt text](spotlight.png)
+ 
+ Here is the lcd module. It's very popular.
+ 
+![Alt text](nokia5510.jpg)
+
+ 
+ 
  improvements to come...
