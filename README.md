@@ -1,6 +1,6 @@
 
 This is my open source arduino projector. I was so excited to discover it that I haven't even tested it yet!
-I bought a spotlight to make a blach light out of.I realized that the tiny led and the convex lens would make a projector.
+I bought a spotlight to make a black light out of.I realized that the tiny led and the convex lens would make a projector.
 This is just a rough test design. I didn't get it done for halloween because I figured it out less than 2 days before.
 Where do ideas come from anyways?
 Enjoy.
