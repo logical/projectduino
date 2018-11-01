@@ -11,6 +11,9 @@ Then you put it in front of the lens and let the led shine through. You can figu
  
  It's very rough but it gets me in the "idea space". 
  
+ The sketch just flips through the images right now. I will add an sd card and other featues later.
+ 
+ the rotate.html file has javascript I used to convert a binary image to the nokia format it's rough but it works.
  
  Here is the spotlight I have.
  
