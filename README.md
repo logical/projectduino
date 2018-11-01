@@ -20,6 +20,6 @@ Then you put it in front of the lens and let the led shine through. You can figu
  
 ![Alt text](nokia5510.jpg)
 
- I'm using my favorite construction technique. moules pushed through perfboard with wire wrap.See my other projects for an example.
+ I'm using my favorite construction technique. modules pushed through perfboard with wire wrap. See my other projects for an example.
  
  improvements to come...
