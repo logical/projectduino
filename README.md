@@ -13,12 +13,13 @@ Then you put it in front of the lens and let the led shine through. You can figu
  
  
  Here is the spotlight I have.
+ 
 ![Alt text](spotlight.png)
  
  Here is the lcd module. It's very popular.
  
 ![Alt text](nokia5510.jpg)
 
- 
+ I'm using my favorite construction technique. moules pushed through perfboard with wire wrap.See my other projects for an example.
  
  improvements to come...
