@@ -16,7 +16,7 @@ Then you put it in front of the lens and let the led shine through. You can figu
  
 ![Alt text](spotlight.png)
  
- Here is the lcd module. It's very popular.
+ Here is the lcd module. It's very popular. you can cut a rectangle the size of the lcd in this one.
  
 ![Alt text](nokia5510.jpg)
 
