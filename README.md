@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=mo4_5vG8bbU
 
 Thanks again Dave!
 
-![Alt text](housing.png.jpg)
+![Alt text](housing.png)
 
 The problem with doing this is the rubber coductors that attach to the glass. I had one module from china that had conductive traces on the glass and the rubber conductor would not make good connection after I modified it. I tried many things to replace the rubber conductor but nothing has worked yet. I tried conductive wire glue. I took the pins out of female headers but couldn't get that to work. The pins are 1mm pitch and I thought an sd card connector woud work but it won't. Finally I settled for the construction you see. I glued two nuts to the display to hold the piece of pcb on. I'm going to look to see if I can find those rubber conductor new somewhere. I had more LCDs from sparkfun and the conductor seemed to be stuck to the glass good and I never took it off.
 
